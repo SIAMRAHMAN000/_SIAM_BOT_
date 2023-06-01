@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "onbot",
 	version: "1.0.0",
 	hasPermssion: 1,
-	credits: "SIAM",
+	credits: "SIAM RAHMAN",
 	description: "",
 	commandCategory: "AdminBot",
 	cooldowns: 0
